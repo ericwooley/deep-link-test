@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ericwooley.github.io/deep-link-test/index.html</loc>
-    <xhtml:link rel="alternate" href="slra://permalink/560c2054e4b0998bb54dab3a" />
+    <xhtml:link rel="alternate" href="android-app://com.samsung.oh/slra/permalink/560c2054e4b0998bb54dab3a" />
     <lastmod>2015-10-19T23:29:59Z</lastmod>
   </url>
   <url>
